@@ -4,7 +4,7 @@ Welcome to the PagePal repository! The PagePal Bot is a Discord bot designed to 
 
 ## Getting Started
 
-To invite the Islamic Bot to your Discord server, click [here](https://discord.com/api/oauth2/authorize?client_id=1120457708072616003&permissions=3072&scope=bot), and grant the necessary permissions for the bot to function properly on your server.
+To invite PagePal to your Discord server, click [here](https://discord.com/api/oauth2/authorize?client_id=1120457708072616003&permissions=3072&scope=bot), and grant the necessary permissions for the bot to function properly on your server.
 
 ## Usage
 
