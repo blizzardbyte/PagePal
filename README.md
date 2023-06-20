@@ -1,6 +1,6 @@
-# Islamic Bot
+# PagePal
 
-Welcome to the Islamic Bot repository! The Islamic Bot is a Discord bot designed to provide book recommendations on various subjects related to Islam. This bot aims to help users explore and deepen their understanding of Islamic literature, spirituality, and teachings.
+Welcome to the PagePal repository! The PagePal Bot is a Discord bot designed to provide book recommendations on various subjects related to Islam. This bot aims to help users explore and deepen their understanding of Islamic literature, spirituality, and teachings.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ To invite the Islamic Bot to your Discord server, click [here](https://discord.c
 
 ## Usage
 
-Once the Islamic Bot is added to your server, you can interact with it using the following commands:
+Once PagePal is added to your server, you can interact with it using the following commands:
 
 - `!recommend` - Get book recommendations based on specific subjects.
   - Example: `!recommend spirituality` or `!recommend fiqh`
@@ -21,8 +21,8 @@ Once the Islamic Bot is added to your server, you can interact with it using the
 
 ## Support
 
-If you encounter any issues, have suggestions, or need assistance with the Islamic Bot, please feel free to contact the bot developer at <McIlhenny#0001>.
+If you encounter any issues, have suggestions, or need assistance with PagePal, please feel free to contact the bot developer at <McIlhenny#0001>.
 
 ## Disclaimer
 
-The Islamic Bot is intended for informational purposes only. The book recommendations provided by the bot are not an endorsement of any specific author, viewpoint, or interpretation. Users are encouraged to exercise their own discretion and consult reliable sources in their studies and research.
+PagePal is intended for informational purposes only. The book recommendations provided by the bot are not an endorsement of any specific author, viewpoint, or interpretation. Users are encouraged to exercise their own discretion and consult reliable sources in their studies and research.
